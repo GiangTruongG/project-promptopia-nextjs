@@ -42,3 +42,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
  - Search by username
 [] Implement Click on tag
 [] Implement View other profiles
+
+
+Link for deployment: https://project-promptopia-nextjs.vercel.app
